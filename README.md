@@ -8,8 +8,14 @@ Have NodeJS installed in your machine. The official site is https://nodejs.org/e
 
 ## How can I run this?
 
+The first time you have to:
+
 1. Edit the `script.js` file and substitute the placeholders for the merchantId, publicKey, and privateKey. 
 2. Open a terminal, navigate to the project folder (the one containing the `package.json` file)
 3. Execute `npm install`. This will install the `braintree` dependency automatically.
 4. Execute `npm start`. This will execute the application. You will see the results in the screen.
 
+The following times, you only have to:
+
+1. Open a terminal, navigate to the project folder (the one containing the `package.json` file)
+2. Execute `npm start`. This will execute the application. You will see the results in the screen.
