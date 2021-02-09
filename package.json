@@ -1,0 +1,14 @@
+{
+  "name": "settle-braintree-transactions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "author": "Francisco Canela <fcanela>",
+  "license": "ISC",
+  "dependencies": {
+    "braintree": "^3.2.1"
+  }
+}
